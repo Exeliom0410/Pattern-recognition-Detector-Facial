@@ -9,7 +9,8 @@
 4) En el caso de si descargar los archivos, no modificar la carpeta "Modelos", no requiere cambios.
 5) En "Usuario" dentro de la carpeta "Rostros" deben ir las fotos de la persona a la cual se le quiere detectar, se recomienda fotos de frente con algunas variaciones de hacia donde se observa y muecas o espreciones
 6) El codigo reconoce imagenes .png, .jpg y .jpeg.
-7) En el código, solo se requiere modificar la variante "CAMARA" que representa cual cámara se esta utilizando, 0 es la cámara nativa en caso de tener una y de el 1 hacia arriba son las cámaras o capturadoras, probar diferentes números de ser necesario.
-8) En caso de dar error con las imágenes, intente recortarlas para que solo se vean los rostros.
+7) En caso de dar error con las imágenes, intente recortarlas para que solo se vean los rostros.
+8) En el código, solo se requiere modificar la variante "CAMARA" que representa cual cámara se esta utilizando, 0 es la cámara nativa en caso de tener una y de el 1 hacia arriba son las cámaras o capturadoras, probar diferentes números de ser necesario.
+9) Si buscas agregar mas rostros, tendrás que modificar el código para ello, agregando las carpetas correspondientes según la cantidad de usuarios y publicar la función de el cuadro de deteccion
 
 ##Espero te sea de ayuda.
