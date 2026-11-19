@@ -1,8 +1,8 @@
 # Pattern-recognition-Detector-Facial
 
-##Link de archivos: [Detector Facial](https://drive.google.com/drive/folders/1BKf8NDDcxArf7QQ0NmfWocZEd2yHDOhH?usp=sharing)
+## Link de archivos: [Detector Facial](https://drive.google.com/drive/folders/1BKf8NDDcxArf7QQ0NmfWocZEd2yHDOhH?usp=sharing)
 
-##Manual de uso
+## Manual de uso
 1) En el link de archivos se encuentra el código hecho en python más dos carpetas, una llamada "Rostros" y otra llamada "Modelos", siendo la ultima la más importante teniendo componentes vitales para la detección facial.
 2) En caso de solo utilizar el código porque solo busca una referencia, recuerde que el código debe estar en la misma carpeta donde se encuentran las otras dos carpetas o componentes a utilizar, es posible usar archivos en otras rutas, pero es requerido justamente poner esa ruta.
 3) Se debe descargar openCV para la función de detector facial.
@@ -13,4 +13,4 @@
 8) En el código, solo se requiere modificar la variante "CAMARA" que representa cual cámara se esta utilizando, 0 es la cámara nativa en caso de tener una y de el 1 hacia arriba son las cámaras o capturadoras, probar diferentes números de ser necesario.
 9) Si buscas agregar mas rostros, tendrás que modificar el código para ello, agregando las carpetas correspondientes según la cantidad de usuarios y publicar la función de el cuadro de deteccion
 
-##Espero te sea de ayuda.
+## Espero te sea de ayuda.
